@@ -7,7 +7,7 @@
 * Open the VS project file, found inside `GameEngine` -> `GameEngine.sln`
 * Build & Run
 * WASD  to move
-* SPACE to shoot
+* Q/E to shoot
 * Don't crash
 * Kill cows
 

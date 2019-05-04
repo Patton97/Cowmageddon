@@ -2,8 +2,6 @@
 
 ***
 
-## How to use
-
 * Open the VS project file, found inside `GameEngine` -> `GameEngine.sln`
 * Build & Run
 * Arrows & ENTER for menu

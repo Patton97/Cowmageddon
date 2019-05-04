@@ -1,0 +1,22 @@
+﻿  wincode.cpp
+  vector2D.cpp
+  mysoundengine.cpp
+  myinputs.cpp
+  mydrawengine.cpp
+  gametimer.cpp
+  gamecode.cpp
+e:\andrew\uni\final year\kf6017 - software architecture for games\kf6017 assignment - 16007006\handin\fullengine (just in case)\gameengine\gameengine\gamecode.cpp(317): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\andrew\uni\final year\kf6017 - software architecture for games\kf6017 assignment - 16007006\handin\fullengine (just in case)\gameengine\gameengine\gamecode.cpp(318): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\andrew\uni\final year\kf6017 - software architecture for games\kf6017 assignment - 16007006\handin\fullengine (just in case)\gameengine\gameengine\gamecode.cpp(325): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\andrew\uni\final year\kf6017 - software architecture for games\kf6017 assignment - 16007006\handin\fullengine (just in case)\gameengine\gameengine\gamecode.cpp(326): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  camera.cpp
+  Shapes.cpp
+  ObjectManager.cpp
+  GameObject.cpp
+  ErrorLogger.cpp
+  Components.cpp
+e:\andrew\uni\final year\kf6017 - software architecture for games\kf6017 assignment - 16007006\handin\fullengine (just in case)\gameengine\gameengine\components.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\andrew\uni\final year\kf6017 - software architecture for games\kf6017 assignment - 16007006\handin\fullengine (just in case)\gameengine\gameengine\components.cpp(135): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  GameEngine.vcxproj -> E:\Andrew\Uni\Final Year\KF6017 - Software Architecture for Games\KF6017 Assignment - 16007006\Handin\FullEngine (just in case)\GameEngine\Debug\GameEngine.exe
+  GameEngine.vcxproj -> E:\Andrew\Uni\Final Year\KF6017 - Software Architecture for Games\KF6017 Assignment - 16007006\Handin\FullEngine (just in case)\GameEngine\Debug\GameEngine.pdb (Full PDB)
